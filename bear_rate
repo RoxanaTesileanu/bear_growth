@@ -15,8 +15,13 @@ Aim: Pinpoint an initial population size (and its error) for the calculation of 
 
 Assess how the Leslie matrix can be compiled at the national level, event. county level.
 And compute the estimated growth rate. 
-R package?
 
+For the computation of the Leslie matrix and graphical presentation of results the modules for scientific data analysis of Python will be used. 
+
+
+3RD YEAR:
+
+Develop alternative policy proposals and evaluate them in a participative manner.
 
 
 
