@@ -1,0 +1,41 @@
+Project sketch: Towards an analysis of population dynamics of the brown bear in Romania
+
+
+
+The research body on the population dynamics for the brown bear in Romania aims since about two decades at estimating a population growth rate. Encouraged by the recommended key actions for large carivore populations in Europe developed within the EC of the EU (Boitani et al. 2015), the present project implements one of the main recommended actions for managing bear populations, namely, the estimation of the population size based on sound data collected in a standardized way. 
+
+The project builds upon 6 research parts:
+
+- the development of an experimental design for data collection 
+- the development of a standardized monitoring protocol for brown bear
+- the development of a web-site for collecting data from volunteers
+- the estimation of the population size based on the concept of occupancy models
+- the analysis of population dynamics using the results from a Leslie matrix 
+- development of policy recommendations evaluated in a participative manner.
+
+This project will produce policy recommentations in concordance with the principles of the environmental procedural assessment (Tesileanu 2009) and will enable an adaptive management of the species at national level, based on state-dependent decisions and socially justified objectives  (MacKenzie et al. 2006).  
+
+
+
+
+
+
+
+
+
+
+
+References:
+Boitani, L., F. Alvarez, O. Anders, H. Andren, E. Avanzinelli, V. Balys, J. C. Blanco, U. Breitenmoser, G. Chapron, P. Ciucci, A. Dutsov, C. Groff, D. Huber, O. Ionescu, F. Knauer, I. Kojola, J. Kubala, M. Kutal, J. Linnell, A. Majic, P. Mannil, R. Manz, F. Marucco, D. Melovski, A. Molinari, H. Norberg, S. Nowak, J. Ozolins, S. Palazon, H. Potocnik, P.-Y. Quenette, I.Reinhardt, R. Rigg, N. Selva, A. Sergiel, M. Shkvyria, J. Swenson, A. Trajce, M. Von Arx, M. Wolfl, U. Wotschikowsky, D. Zlatanova, 2015. Key actions for Large Carnivore populations in Europe. Institute of Applied Ecology (Rome, Italy). Report to DG Environment, European Commission, Bruxelles.
+
+MacKenzie, D. I., Nichols, J. D., Royle, J.A., Pollock, K. H., Bailey, L. L., Hines, J. E. 2006. Occupancy estimation and modeling - Infering patterns and Dynamics of species occurrence. Academic Press. San Diego.
+
+Tesileanu, R., 2009. Assessment of restoration activities. Report. WSL, Birmensdorf.
+
+
+
+
+
+
+
+     
