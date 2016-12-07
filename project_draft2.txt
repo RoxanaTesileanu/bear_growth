@@ -6,65 +6,33 @@ The research body on the population dynamics for the brown bear in Romania aims 
 
 The project builds upon x preliminary studies:
 
-- the development of an assessment methodology suited for the ecological modeling of the brown bear population in Romania 
-- the implementation of a capture-recapture study based on photo-trapping in order to obtain the data used in population modeling  
-- the development of a standardized monitoring protocol for brown bear
-- the development of a web-site for collecting data from volunteers
-- the estimation of the population size based on the concept of occupancy models
-- the analysis of population dynamics using the results from a Leslie matrix 
-- development of policy recommendations evaluated in a participative manner.
+- Development of an assessment methodology suited for the ecological modeling of the brown bear population in Romania and should be based on data coming from a capture-recapture study using photo-trapping collected according to a previously developed sampling scheme.  
+- Implementation of a capture-recapture study based on photo-trapping in order to obtain the data used in the subsequent population modeling.
+- Estimation of the population size based on the concept of occupancy models.
+- Analysis of population dynamics using the results from a Leslie matrix. 
+- Development of policy recommendations evaluated in a participative manner.
 
 This project will produce policy recommendations in concordance with the principles of the environmental procedural assessment (Tesileanu 2009) and will enable an adaptive management of the species at national level, based on state-dependent decisions and socially justified objectives  (MacKenzie et al. 2006).  
 
 
-Research part 1: Development of an experimental design for data collection
-
-The experimental design used in this project should take into account the fact that the field observations come from volunteers of the different stakeholder groups. The formal layout of the questionnaire should enhance a responsible completion of the questionnaire (see the results of Wong-Parodi et al. 2016). Further exploration of this issue will show how the knowledge and responsability of volunteers completing the questionnaire could be ranked on a Scientific Reasoning Scale (see for details Drummond, C. and Fischhoff, B. 2015). Also, variables affecting the number of brown bears at the local scale should be identified in a brainstorming session according to the recommendation of Fischhoff and Davis (2014) and should include poaching, hunting, natural stochastic events, road-kill, movement, no. of cubs and their survival chances, along with the usual individual counts classified in age-groups and sex.  
-
-
-Also, another point in using data input comming in an opportunistic manner is the establishment of a sampling scheme which will identify how can the input be sampled in order to gain unbiased results. Dealing with multiple inputs for the same location should be investigated (see Jonas Kindberg 2010).
-
-
-Research part 2: Development of a standardized monitoring protocol for brown bear
-
-The work related to the development of a standardized monitoring protocol for brown bear was stared by WWF Romania (Papp year). This project aims at further developing the monitoring protocol as it is a cooperation between INCDS/Brasov and WWF/Romania. It should include the variables identified in the research part 1. 
-
-Research part 3: Development of a web-site for collecting data from volunteers
-
-The development of a web-site for collecting data from volunteers should be done in cooperation with experts from the field of IT, and should secure the storage of input data in a database for common use of INCDS and WWF and the data will be further communicated to the responsible EU organizations. It is also necessary the cooperation with decision scientists for developing a user-friendly interface and the responsible usage of the volunteers whishing to help in data collection.
-
-Research part 4: Estimation of the population size based on the concept of occupancy models
-
-This research part should be done in cooperation with Darryl MacKenzie. It aims at finding ways to estimate the detection probability using the survey data, and use this information in estimating the population size for the brown bear at national scale. It is important to have an investigation on this issue started from the beginning on, so that the experimental design can take advantage of these findings. 
-
-Research part 5: Analysis of population dynamics 
-
-Using the data input gathered throughout the project, the growth rate of the brown bear at local and national scale should be one of the results. Using this information will help projecting the effect of different management actions (MacKenzie et al. 2006).
-
-Research part 6: Development of policy recommendations evaluated in a participative manner
-
-The ending part of the project will have as main objective the evaluation of the alternatives developed in the previous research part. This aims at finding socially justified alternatives and thus requires participative actions (see Dietz 2013). 
- 
 
 References:
+
 Boitani, L., F. Alvarez, O. Anders, H. Andren, E. Avanzinelli, V. Balys, J. C. Blanco, U. Breitenmoser, G. Chapron, P. Ciucci, A. Dutsov, C. Groff, D. Huber, O. Ionescu, F. Knauer, I. Kojola, J. Kubala, M. Kutal, J. Linnell, A. Majic, P. Mannil, R. Manz, F. Marucco, D. Melovski, A. Molinari, H. Norberg, S. Nowak, J. Ozolins, S. Palazon, H. Potocnik, P.-Y. Quenette, I.Reinhardt, R. Rigg, N. Selva, A. Sergiel, M. Shkvyria, J. Swenson, A. Trajce, M. Von Arx, M. Wolfl, U. Wotschikowsky, D. Zlatanova, 2015. Key actions for Large Carnivore populations in Europe. Institute of Applied Ecology (Rome, Italy). Report to DG Environment, European Commission, Bruxelles.
 
-Dietz, T., 2013. Bringing values and deliberation to science communication. PNAS, 110, 3, 14081-14087.
-
-Drummond, C., Fischhoff, B. 2015. Development and validation of the Scientific Reasoning Scale. Journal of Behavioral Decision Making. 
+Dietz, T., 2013. Bringing values and deliberation to science communication. PNAS, 110, 3, 14081-14087. 
 
 Fischhoff, B., Davis, A. 2014. Communicating scientific uncertainty. PNAS, 111,4, 13664-13671. 
 
-Kindber, J., 2010. 
+Krebs, C., 2009. Ecology: the experimental analysis of distribution and abundance. Pearson. 
+
+Krebs, C., 2015. One hundred years of population ecology: successes, failures and the road ahed. Integrative Zoology, 10: 233-240.
 
 MacKenzie, D. I., Nichols, J. D., Royle, J.A., Pollock, K. H., Bailey, L. L., Hines, J. E. 2006. Occupancy estimation and modeling - Infering patterns and Dynamics of species occurrence. Academic Press. San Diego.
 
 Tesileanu, R., 2009. Assessment of restoration activities. Report. WSL, Birmensdorf.
 
 
-Wong-Parodi, G., Krishnamurti, T., Davis, A., Schwartz, D., Fischhoff, B. 2016. A decision science approach for integrating social science in climate and energy solutions. Nature Climate Change, 6, 563-569.
-
-WWF Romania. Monitoring protocol for browm bear. Cristi Remus Papp.
 
 
 
