@@ -8,4 +8,5 @@ Summary author: Roxana Tesileanu, INCDS BV
 
 Current management relies on estimates of density that lack statistical oversight and ignore uncertainty deriving from track surveys. 
 Alternative Approach: Estimate brown bear density using sign surveys along transects within a novel integration of OCCUPANCY MODELS and HOME RANGE methods. 
-Estimates bear abundance using unique tracks N-mixture hierarchical models. Very nice idea! I've wrote a similar proposal last year!
+Estimates bear abundance using unique tracks N-mixture hierarchical models, which account for imperfect detection. Very nice idea! I've wrote a similar proposal last year!
+
