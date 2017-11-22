@@ -4,3 +4,6 @@ Popescu et al. 2017
 Ecology and Evolution
 
 Summary author: Roxana Tesileanu, INCDS BV
+
+
+Current management relies on estimates of density that lack statistical oversight and ignore uncertainty deriving from track surveys. 
