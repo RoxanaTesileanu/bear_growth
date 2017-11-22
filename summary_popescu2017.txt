@@ -11,5 +11,5 @@ Alternative Approach: Estimate brown bear density using sign surveys along trans
 Estimates bear abundance using unique tracks N-mixture hierarchical models, which account for imperfect detection. Very nice idea! I've wrote a similar proposal last year!
 Also they've weighted the results accordingly, as usual, in order to predict abundances for whole areas based on home-ranges.
 For the study areas, the mean densities ranged between 7.5 and 14.8 individuals/100km2.
-
+The METHOD INCORPORATES MULTIPLE SOURCES OF UNCERTAINTY (e.g. effective sampling area, imperfect detection) to estimate brown bear density, but the inference relies on unmarked individuals olny. 
 
