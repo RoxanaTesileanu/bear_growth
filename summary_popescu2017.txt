@@ -7,3 +7,4 @@ Summary author: Roxana Tesileanu, INCDS BV
 
 
 Current management relies on estimates of density that lack statistical oversight and ignore uncertainty deriving from track surveys. 
+Alternative Approach: Estimate brown bear density using sign surveys along transects within a novel integration of OCCUPANCY MODELS and HOME RANGE methods. 
