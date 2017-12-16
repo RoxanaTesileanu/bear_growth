@@ -12,5 +12,5 @@ Introduction
 - one of the biggest challenges: policy-making with no available or scarce data => policy-making under high uncertainty 
 - how can it work? 
 - necessary because policy-making cannot wait until data are available, decisions are urgent
-- what strategy to adopt and does it leave more future paths open? 
+- what strategy to adopt and does it leave alternative future paths open? 
 
