@@ -23,3 +23,5 @@ Population dynamics: a complex of interrelated processes
 - ecological carrying capacity and population regulation 
 
 
+
+Conclusions
