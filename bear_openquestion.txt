@@ -20,4 +20,6 @@ Population dynamics: a complex of interrelated processes
 - what factors influence the population dynamics of the brown bear in Romania?
 - the problem of habitat loss and of competing land use forms
 - density-dependence vs. density-independence
-- 
+- ecological carrying capacity and population regulation 
+
+
