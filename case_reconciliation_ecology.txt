@@ -14,3 +14,4 @@ Letting animals breathe: two cases for reconciliation ecology
 References:
 Sinclair et al. 2006, Wildlife Ecology, Conservation and Management, Blackwell Publishing.
 Rosenzweig 1971, Paradox of Enrichment: Destabilization of Exploitation in Ecological Time, Nature.
+Fischhoff 2006, Constructing preferences from labile values. In The Construction of Preference, Ed. Lichtenstein, Slovic, CUP.
