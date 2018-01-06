@@ -9,6 +9,7 @@ Letting animals breathe: two cases for reconciliation ecology
 - cases:
     - bears in RO => supplemental feeding => destabilized metapopulation => after Oct. 2016, potential diffusion from places of high densities to places of low densities if supplemental feeding is stopped.
     - wolfs in Ba-Wue/D => lack of wild prey => lack of survival chances => a reduction of the cull on deer would potentially create room for the wolf in Ba-Wue/D, together with measures of decreasing its prey on domestic animals. Also solitary individuals are more likely not going to survive, if they come through dispersal. In order to enhance the chances of a wolves population, a reintroduction is needed, synchronized with measures of decreasing predation on domestic animals and an increase of the deer population through a reduction of cull on deer. 
+    Furthermore, attitude research only sketches the rough overall situation. For complex decisional contexts, decision analysis is needed in order to identify the problems/fears and find solutions.  
 
 References:
 Sinclair et al. 2006, Wildlife Ecology, Conservation and Management, Blackwell Publishing.
