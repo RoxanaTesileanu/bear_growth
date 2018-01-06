@@ -5,4 +5,5 @@ Affilition: INCDS/Romania, Brasov Station
 Letting animals breathe: two cases for reconciliation ecology
 
 - alleviating the human impact in highly affected/degraded ecosystems
-
+- cases:
+    - bear in RO => supplemental feeding => destabilized metapopulation => after Oct. 2016, potential diffusion from places of high densities to places of low densities
